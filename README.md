@@ -1,6 +1,20 @@
 # Learning By Example: Python Webscraping With Concurrency
 
-## Motivation
+Are you hearing a ton of buzzwords around:
+
+* Python
+* Concurrency
+* WebScraping
+* Gather Data
+* Etc.
+
+Well, yeah, me too! I'm no stranger to python or concurrency in python,
+but I know a lot of people are. This is the perfect time to teach yourself
+some new skills, especially in areas such as data generation or data gathering.
+This is the era of big data, machine learning, and AI! So, let's get started 
+with a pretty cool project - A concurrent website crawler with python which will
+save a whole bunch of data from a whole bunch sites for you and then move on to 
+another site.
 
 ## The Code
 
@@ -316,3 +330,4 @@ something like
 ```
 
 ## GitHub
+All code can be found on [here on GitHub](https://github.com/afoley587/easy-scraping)
